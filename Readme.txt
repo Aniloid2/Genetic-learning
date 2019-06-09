@@ -1,0 +1,1 @@
+Them main program to run is genetic_algo.py, it uses functions from the Plot_fitness_function.py file
